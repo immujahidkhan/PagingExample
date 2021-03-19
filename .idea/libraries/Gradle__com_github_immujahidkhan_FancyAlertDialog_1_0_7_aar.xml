@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.immujahidkhan:FancyAlertDialog:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a45064f42182ebacceb877da7a0b8c90/jetified-FancyAlertDialog-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a45064f42182ebacceb877da7a0b8c90/jetified-FancyAlertDialog-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a45064f42182ebacceb877da7a0b8c90/jetified-FancyAlertDialog-1.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.immujahidkhan/FancyAlertDialog/1.0.7/d2e416d07646ef601f12c6a3164058f307095dd9/FancyAlertDialog-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
